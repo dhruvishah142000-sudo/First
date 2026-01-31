@@ -1,0 +1,5 @@
+VCS is the handles the version. <br>
+There is 3 types of VCS.<br>
+Local VCS <br>
+Centralized VCS <br>
+Distributed VCS <br>
